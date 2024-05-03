@@ -1,5 +1,7 @@
 
 # Social Media Analytics Dashboard
+![image](https://github.com/shiven24k/Social-Media-Dashboard-Analytics/assets/65511405/9c5b47e8-247a-41ac-8215-53a96838d863)
+
 
 ## Description
 

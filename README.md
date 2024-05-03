@@ -26,8 +26,5 @@ Bash
 git clone https://github.com/shiven24k/Social-Media-Dashboard-Analytics.git
 ```
 
-Use code with caution.
-content_copy
-Install Dependencies (if any):
-Refer to the package.json file for any necessary dependencies and install them using your preferred package manager (e.g., npm or yarn).
+
 

@@ -10,16 +10,14 @@ This project provides a user-friendly dashboard to analyze your social media per
 ## Features
 
 Platform Support: Connect to popular social media platforms (specify supported platforms, e.g., Twitter, Facebook, Instagram).
-Google Authentication: Securely log in using your Google account for authorized access to your social media data.
+Authentication: Securely log in using your Google account for authorized access to your social media data.
 Interactive Dashboard: Visualize key analytics through interactive charts and graphs (mention specific charts, e.g., line charts for follower growth, bar charts for engagement metrics).
 Customizable Filters: Refine your analysis by applying filters based on date range, platform, and specific metrics.
 Data Export (Optional): Export your data in a downloadable format (e.g., CSV) for further analysis in external tools (mention if included).
 Technologies
 
 Front-end: HTML, CSS, JavaScript
-Authentication: Google Sign-In API
-Data Visualization Libraries (Optional): Consider mentioning specific libraries like Chart.js, D3.js, or Google Charts if used.
-Setup Instructions
+Authentication: Firebase Sign-In API
 
 ## Clone the Repository:
 
